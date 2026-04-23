@@ -13,11 +13,12 @@ The Keeper App allows users to create and manage notes dynamically. It focuses o
 
 ## Features
 
-* ➕ Add notes with a title and content
-* 🗑️ Delete notes instantly
-* 🚫 Prevent empty notes from being added
-* ⚡ Real-time updates using React state
-* 🎨 Minimal and user-friendly interface
+* Add notes with a title and content
+* Delete notes instantly
+* Prevent empty notes from being added
+* Real-time updates using React state
+* Minimal and user-friendly interface
+* Filter notes based on text
 
 ---
 
